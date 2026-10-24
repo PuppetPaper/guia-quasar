@@ -1,0 +1,10 @@
+# Solo publicar archivos estáticos revisados.
+.env
+.env.*
+*.log
+*.zip
+*.jsonl
+node_modules/
+__pycache__/
+.DS_Store
+recovery/
